@@ -1,0 +1,176 @@
+* {
+    padding: 0px;
+    margin: 3px;
+    box-sizing: border-box;
+}
+
+.A111 {
+    /* display: block; */
+    margin: 12px;
+}
+
+.B111 {
+    display: block;
+    margin: 50px;
+}
+
+.class {
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+
+.faridun {
+    display: flex;
+    margin: 50px;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    height: 140px;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+}
+
+.flex2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    height: 140px;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+}
+
+.flex3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    height: 140px;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    gap: 15px;
+}
+
+.faridun1 {
+    display: flex;
+    margin: 50px;
+    gap: 30px;
+    justify-content: center;
+}
+
+.flex4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    height: 140px;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    gap: 15px;
+}
+
+.flex5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    height: 140px;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+}
+
+.class {
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+
+.faridun2 {
+    display: flex;
+    margin: 50px;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    height: 140px;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    gap: 5px;
+}
+
+.flex7 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    height: 140px;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    gap: 10px;
+}
+
+.flex8 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    height: 140px;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    gap: 8px;
+}
+
+.faridun3 {
+    display: flex;
+    margin: 50px;
+    gap: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
+.flex9 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    height: 140px;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    gap: 5px;
+}
+
+.flex10 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    height: 140px;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    gap: 15px;
+}
+
+.flex11 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 240px;
+    height: 140px;
+    border: 2px solid burlywood;
+    border-radius: 10px;
+    gap: 10px;
+}
